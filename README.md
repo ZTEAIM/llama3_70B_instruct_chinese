@@ -1,6 +1,6 @@
 ## 模型总结
 Llama3_70B_instruct_chinese 是一个为中文和英文用户提供多种能力的指令调整大语言模型，包括推理和数学运算等，基于 Meta-Llama/Meta-Llama-3-70B-Instruct 模型构建。
-
+模型链接为：https://www.modelscope.cn/models/ZTEAIM2024/Llama3_70B_instruct_chinese/files
  
 **根据C-Eval和CMMLU的结果，Llama3_70B_instruct_chinese 在中文方面的性能远超ChatGPT，并与GPT-4相当！**
 
